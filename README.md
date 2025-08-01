@@ -11,6 +11,10 @@ TikTok users have the ability to submit reports that identify videos and comment
 
 TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
+[TikTok Dataset](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/tiktok_dataset.csv)
+
+
+
 ## Team members at TikTok
 
 **Data team roles**
@@ -182,9 +186,50 @@ Mean view count opinions: 4956.43224989447
 Median view count opinions: 4953.0
 
 
+## Storytelling, Findings and Presentation
+
+[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok-Insights%20and%20Findings.pptx)
+
+
+![Tiktok Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/Tiktok%20Presentation.png)
+
+
+## Insights
+
+**- There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing         that there is a fairly balanced amount of claims and opinions for the videos included within this dataset.**
+
+**- With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data     analysis can begin.**
+
+Pie chart visualizes the comparison of the count of claims and opinions
+
+
+<img width="282" height="371" alt="image" src="https://github.com/user-attachments/assets/93761976-9308-4110-8777-0ae71c66b298" />
 
 
 
+## Responce
+
+- The data team performed a preliminary investigation of the claims classification dataset with the aim of learning important               relationships between variables.
+
+- Given the ask for a classification of user claims, the data team looked at the counts of claims and opinions in order to understand the   count of each type of video content.
+
+
+## Impact
+
+**"The impact of this preliminary analysis will be evident in the next steps. In order to understand the impact of user videos, the data team identified two important variables to consider. The variables  video_duration (in seconds) and video_view_count are both important factors to consider for future prediction models."**
+
+
+## Issue/ Problem
+
+
+**"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. To begin, the data team needs to organize the raw dataset and prepare it for future exploratory data analysis."**
+
+
+
+"Any concerns contact to us  nihalshaikh.analyst@gmail.com
+
+
+-------Thank you........
 
 
 
