@@ -100,8 +100,11 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 - View and inspect summary information about the dataframe by coding the following:
 
 data.head(10)
+
 data.info()
+
 data.describe()
+
 
 - The dataframe contains a collection of categorical, text, and numerical data. Each row represents a distinct TikTok video that presents   either a claim or an opinion and the accompanying metadata about that video.
  
