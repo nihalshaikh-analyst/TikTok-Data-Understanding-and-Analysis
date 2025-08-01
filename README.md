@@ -207,7 +207,7 @@ Pie chart visualizes the comparison of the count of claims and opinions
 
 
 
-## Responce
+## Response
 
 - The data team performed a preliminary investigation of the claims classification dataset with the aim of learning important               relationships between variables.
 
