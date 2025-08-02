@@ -56,16 +56,6 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 - Gather descriptive statistics
 
 
-## Project background
-
-
-TikTok’s data team is in the earliest stages of the claims classification project. The following tasks are needed before the team can begin the data analysis process:
-
-- Build a dataframe for the TikTok dataset
-
-- Examine data type of each column
-
-- Gather descriptive statistics
 
 
 ## Specific project deliverables
