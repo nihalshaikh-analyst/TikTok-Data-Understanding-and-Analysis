@@ -219,7 +219,7 @@ Pie chart visualizes the comparison of the count of claims and opinions
 
 
 
-"Any concerns contact to us  nihalshaikh.analyst@gmail.com
+Any concerns contact to us  nihalshaikh.analyst@gmail.com
 
 
 -------Thank you........
