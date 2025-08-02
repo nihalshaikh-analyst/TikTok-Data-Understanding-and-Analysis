@@ -38,7 +38,7 @@ Note: The story, all names, characters, and incidents portrayed in this project 
 
 ## Data dictionary
 
-This project uses a dataset called tiktok_dataset.csv. It contains synthetic data created for this project in partnership with TikTok. 
+**This project uses a dataset called tiktok_dataset.csv. It contains synthetic data created for this project in partnership with TikTok.**
 
 The dataset contains: 
 
