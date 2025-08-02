@@ -69,7 +69,7 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 
 - Communicate important findings in the form of an executive summary  
 
-- TikTok's data team needs you to problem-solve and communicate your findings. Good luck on tasks!
+- TikTok's data team needs to problem-solve and communicate findings. Good luck on tasks!
 
 
 ## Step by Step Process
