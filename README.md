@@ -168,7 +168,7 @@ Note: The counts of each claim status are quite balanced. There are 9,608 claims
 
 ## ENGAGEMENT TRENDS
 
-**The data team considered viewer engagement with each video in the claim and opinion categories. In order to understand viewer engagement, the data team considered the view count. The mean and median view count show the impact of each category of video; specifically, the mean and median view counts for both categories show the association between content (claim or opinion) and the video views.**
+**"The data team considered viewer engagement with each video in the claim and opinion categories. In order to understand viewer engagement, the data team considered the view count. The mean and median view count show the impact of each category of video; specifically, the mean and median view counts for both categories show the association between content (claim or opinion) and the video views."**
 
 Claims:
 Mean view count claims: 501029.4527477102
@@ -189,9 +189,9 @@ Median view count opinions: 4953.0
 
 ## Insights
 
-**- There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing         that there is a fairly balanced amount of claims and opinions for the videos included within this dataset.**
+**- There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing that there is a fairly balanced amount of               claims and opinions for the videos included within this dataset.**
 
-**- With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data     analysis can begin.**
+**- With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data analysis can begin.**
 
 Pie chart visualizes the comparison of the count of claims and opinions
 
