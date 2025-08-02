@@ -189,9 +189,9 @@ Median view count opinions: 4953.0
 
 ## Insights
 
-**- There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing that there is a fairly balanced amount of               claims and opinions for the videos included within this dataset.**
+**1. There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing that there is a fairly balanced amount of claims and opinions for the videos included within this dataset.**
 
-**- With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data analysis can begin.**
+**2. With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data analysis can begin.**
 
 Pie chart visualizes the comparison of the count of claims and opinions
 
