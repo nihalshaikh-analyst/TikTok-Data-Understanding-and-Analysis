@@ -181,10 +181,10 @@ Median view count opinions: 4953.0
 
 ## Storytelling, Findings and Presentation
 
-[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok-Insights%20and%20Findings.pptx)
+[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20Data%20Understanding%20Findings.pptx)
 
 
-![Tiktok Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/Tiktok%20Presentation.png)
+![Tiktok Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/Tiktok%20Data%20Understanding%20Presentation.png)
 
 
 ## Insights
