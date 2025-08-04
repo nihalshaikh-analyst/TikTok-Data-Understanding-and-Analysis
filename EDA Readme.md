@@ -181,12 +181,25 @@ The view count variable has a very uneven distribution, with more than half the 
 <img width="341" height="253" alt="image" src="https://github.com/user-attachments/assets/ff140bdc-4698-4886-9204-aa68c62bf885" />
 
 Similar to view count, there are far more videos with < 100,000 likes than there are videos with more. 
-<img width="955" height="45" alt="image" src="https://github.com/user-attachments/assets/d1b3d1d2-279c-4244-a3f4-406daed02cbc" />
+
 
 <img width="424" height="253" alt="image" src="https://github.com/user-attachments/assets/63370dfe-e80b-4ab6-a38f-a432dd887a7c" />
 
 Again, the vast majority of videos are grouped at the bottom of the range of values for video comment count. Most videos have fewer than 100 comments. The distribution is very right-skewed.
-<img width="1776" height="45" alt="image" src="https://github.com/user-attachments/assets/3171bb66-6788-45d3-925d-2bc23fd0aa81" />
+
+
+## Insights
+
+**"The exploratory data analysis conducted from TikTok’s data team revealed many considerations for the classification model, including missing values, “claims” to “opinions” balance, and overall distribution of data variables. The two key insights from this analysis were"**
+
+
+### Null Value
+
+**"Over 200 null values were found in 7 different columns. As a result, future modeling should consider the null values to avoid making insights that would assume complete data. Further analysis is necessary to investigate the reason for these null values, and their impact on future statistical analysis or model building."**
+
+### Skewed data distribution
+
+**"Video view and like counts are all concentrated on low end of 1,000 for opinions. Therefore, the data distribution is right-skewed, which will inform the models and model types that will be built."**
 
 
 
@@ -198,5 +211,11 @@ Again, the vast majority of videos are grouped at the bottom of the range of val
 ## Issue / Problem
 
 **"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. In this part of the project, the data needs to be analyzed, explored, cleaned, and structured prior to any model building."**
-<img width="2737" height="53" alt="image" src="https://github.com/user-attachments/assets/10a9a7a1-cd99-45f5-8ab8-6714fc0484ec" />
 
+
+
+Any query connect nihalshaikh.analyst@gmail.com
+
+
+
+-----------Thank you................
