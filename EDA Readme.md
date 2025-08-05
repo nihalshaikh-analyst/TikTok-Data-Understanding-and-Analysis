@@ -12,6 +12,33 @@ This project uses a dataset called tiktok_dataset.csv. It contains synthetic dat
 **The purpose of this project is to conduct exploratory data analysis on a provided data set. Your mission is to continue the investigation you began in C2 and perform further EDA on this data with the aim of learning more about the variables. Of particular interest is information related to what distinguishes claim videos from opinion videos.**
 
 
+## Project background
+
+TikTok’s data team is working on the claims classification project.
+
+- EDA and cleaning.
+
+- Select and build visualization(s) type.
+
+- Create plots to visualize variables and relationships between variables.
+
+- Share your results with the TikTok team.
+
+[Dataset](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/tiktok_dataset.csv)
+
+
+## Specific project deliverables
+
+- Strategy Document to consider questions, details, and action items for each stage of the project scenario
+
+- Answer the questions in the Jupyter notebook project file
+
+- Clean your data, perform exploratory data analysis (EDA)
+
+- Create data visualizations
+
+- Create an executive summary to share your results
+
 
 
 
@@ -78,33 +105,6 @@ Again, the vast majority of videos are grouped at the bottom of the range of val
 **"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. In this part of the project, the data needs to be analyzed, explored, cleaned, and structured prior to any model building."**
 
 
-
-## Project background
-
-TikTok’s data team is working on the claims classification project.
-
-- EDA and cleaning.
-
-- Select and build visualization(s) type.
-
-- Create plots to visualize variables and relationships between variables.
-
-- Share your results with the TikTok team.
-
-[Dataset](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/tiktok_dataset.csv)
-
-
-## Specific project deliverables
-
-- Strategy Document to consider questions, details, and action items for each stage of the project scenario
-
-- Answer the questions in the Jupyter notebook project file
-
-- Clean your data, perform exploratory data analysis (EDA)
-
-- Create data visualizations
-
-- Create an executive summary to share your results
 
 
 ## Step by Step EDA Process
