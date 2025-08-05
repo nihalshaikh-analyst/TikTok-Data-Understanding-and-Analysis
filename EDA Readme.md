@@ -11,6 +11,74 @@ This project uses a dataset called tiktok_dataset.csv. It contains synthetic dat
 
 **The purpose of this project is to conduct exploratory data analysis on a provided data set. Your mission is to continue the investigation you began in C2 and perform further EDA on this data with the aim of learning more about the variables. Of particular interest is information related to what distinguishes claim videos from opinion videos.**
 
+
+
+
+
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/EDA%20of%20TikTok.ipynb)
+
+
+**EDA is important because ...**
+**EDA helps a data professional to get to know the data, understand its outliers, clean its missing values, and prepare it for future modeling.**
+**Visualizations helped me understand ..**
+**That we will need to make decisions on certain considerations prior to designing a model. (for example, what to do with outliers, duplicate values, or missing data)**
+
+
+## Storytelling and Problem Solveing
+
+**A key component of this project’s exploratory data analysis involves visualizing the data. As illustrated in the following histograms, it is clear that the vast majority of videos are grouped at the bottom of the range of values for three variables that showcase TikTok users (video viewers’) engagement with the videos included in this dataset.**
+
+![TikTok EDA Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20EDA%20Presentation.png)
+
+
+## Response
+
+**The TikTok data team conducted exploratory data analysis at this stage. The purpose of the exploratory data analysis was to understand the impact that videos have on TikTok users. To do so, the TikTok data team analyzed variables that would showcase user engagement: view, like, and comment count.**
+
+
+<img width="365" height="217" alt="image" src="https://github.com/user-attachments/assets/6dac727e-ae72-4c27-984b-234714bcfcb0" />
+
+The view count variable has a very uneven distribution, with more than half the videos receiving fewer than 100,000 views. Distribution of view counts > 100,000 views is uniform.
+
+
+<img width="341" height="253" alt="image" src="https://github.com/user-attachments/assets/ff140bdc-4698-4886-9204-aa68c62bf885" />
+
+Similar to view count, there are far more videos with < 100,000 likes than there are videos with more. 
+
+
+<img width="424" height="253" alt="image" src="https://github.com/user-attachments/assets/63370dfe-e80b-4ab6-a38f-a432dd887a7c" />
+
+Again, the vast majority of videos are grouped at the bottom of the range of values for video comment count. Most videos have fewer than 100 comments. The distribution is very right-skewed.
+
+
+## Insights
+
+**"The exploratory data analysis conducted from TikTok’s data team revealed many considerations for the classification model, including missing values, “claims” to “opinions” balance, and overall distribution of data variables. The two key insights from this analysis were"**
+
+
+### Null Value
+
+**"Over 200 null values were found in 7 different columns. As a result, future modeling should consider the null values to avoid making insights that would assume complete data. Further analysis is necessary to investigate the reason for these null values, and their impact on future statistical analysis or model building."**
+
+### Skewed data distribution
+
+**"Video view and like counts are all concentrated on low end of 1,000 for opinions. Therefore, the data distribution is right-skewed, which will inform the models and model types that will be built."**
+
+
+
+## Impact
+
+**"According to the findings from the exploratory data analysis, the future claim classification model will need to account for null values and imbalance in opinion video counts by incorporating them into the model parameters."**
+
+
+## Issue / Problem
+
+**"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. In this part of the project, the data needs to be analyzed, explored, cleaned, and structured prior to any model building."**
+
+
+
 ## Project background
 
 TikTok’s data team is working on the claims classification project.
@@ -146,71 +214,6 @@ A geographic map
 3. Calculate the outlier threshold (median + 1.5 * IQR)
 4. Calculate the numer of videos with a count in that column that exceeds the outlier threshold
 5. Print "Number of outliers, {column name}: {outlier count}"
-
-
-
-
-## Jupyter Notebook
-
-[Notebook](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/EDA%20of%20TikTok.ipynb)
-
-
-**EDA is important because ...**
-**EDA helps a data professional to get to know the data, understand its outliers, clean its missing values, and prepare it for future modeling.**
-**Visualizations helped me understand ..**
-**That we will need to make decisions on certain considerations prior to designing a model. (for example, what to do with outliers, duplicate values, or missing data)**
-
-
-## Storytelling and Problem Solveing
-
-**A key component of this project’s exploratory data analysis involves visualizing the data. As illustrated in the following histograms, it is clear that the vast majority of videos are grouped at the bottom of the range of values for three variables that showcase TikTok users (video viewers’) engagement with the videos included in this dataset.**
-
-![TikTok EDA Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20EDA%20Presentation.png)
-
-
-## Response
-
-**The TikTok data team conducted exploratory data analysis at this stage. The purpose of the exploratory data analysis was to understand the impact that videos have on TikTok users. To do so, the TikTok data team analyzed variables that would showcase user engagement: view, like, and comment count.**
-
-
-<img width="365" height="217" alt="image" src="https://github.com/user-attachments/assets/6dac727e-ae72-4c27-984b-234714bcfcb0" />
-
-The view count variable has a very uneven distribution, with more than half the videos receiving fewer than 100,000 views. Distribution of view counts > 100,000 views is uniform.
-
-
-<img width="341" height="253" alt="image" src="https://github.com/user-attachments/assets/ff140bdc-4698-4886-9204-aa68c62bf885" />
-
-Similar to view count, there are far more videos with < 100,000 likes than there are videos with more. 
-
-
-<img width="424" height="253" alt="image" src="https://github.com/user-attachments/assets/63370dfe-e80b-4ab6-a38f-a432dd887a7c" />
-
-Again, the vast majority of videos are grouped at the bottom of the range of values for video comment count. Most videos have fewer than 100 comments. The distribution is very right-skewed.
-
-
-## Insights
-
-**"The exploratory data analysis conducted from TikTok’s data team revealed many considerations for the classification model, including missing values, “claims” to “opinions” balance, and overall distribution of data variables. The two key insights from this analysis were"**
-
-
-### Null Value
-
-**"Over 200 null values were found in 7 different columns. As a result, future modeling should consider the null values to avoid making insights that would assume complete data. Further analysis is necessary to investigate the reason for these null values, and their impact on future statistical analysis or model building."**
-
-### Skewed data distribution
-
-**"Video view and like counts are all concentrated on low end of 1,000 for opinions. Therefore, the data distribution is right-skewed, which will inform the models and model types that will be built."**
-
-
-
-## Impact
-
-**"According to the findings from the exploratory data analysis, the future claim classification model will need to account for null values and imbalance in opinion video counts by incorporating them into the model parameters."**
-
-
-## Issue / Problem
-
-**"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. In this part of the project, the data needs to be analyzed, explored, cleaned, and structured prior to any model building."**
 
 
 
