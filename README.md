@@ -72,6 +72,69 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 - TikTok's data team needs to problem-solve and communicate findings. Good luck on tasks!
 
 
+
+
+## UNDERSTANDING THE DATA
+
+After reviewing the provided dataset, the variable  claim_status seemed particularly useful, given the client’s proposed project. The following screenshots show important points of analysis required to understand the claim_status variable.
+
+<img width="474" height="146" alt="image" src="https://github.com/user-attachments/assets/4244291f-19d1-4c66-ac07-1c96e3166dee" />
+
+Note: The counts of each claim status are quite balanced. There are 9,608 claims and 9,476 opinions.
+
+## ENGAGEMENT TRENDS
+
+**"The data team considered viewer engagement with each video in the claim and opinion categories. In order to understand viewer engagement, the data team considered the view count. The mean and median view count show the impact of each category of video; specifically, the mean and median view counts for both categories show the association between content (claim or opinion) and the video views."**
+
+Claims:
+Mean view count claims: 501029.4527477102
+Median view count claims: 501555.0
+
+Opinions:
+Mean view count opinions: 4956.43224989447
+Median view count opinions: 4953.0
+
+
+## Storytelling, Findings and Presentation
+
+[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20Data%20Understanding%20Findings.pptx)
+
+
+![Tiktok Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/Tiktok%20Data%20Understanding%20Presentation.png)
+
+
+## Insights
+
+**1. There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing that there is a fairly balanced amount of claims and opinions for the videos included within this dataset.**
+
+**2. With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data analysis can begin.**
+
+Pie chart visualizes the comparison of the count of claims and opinions
+
+
+<img width="282" height="371" alt="image" src="https://github.com/user-attachments/assets/93761976-9308-4110-8777-0ae71c66b298" />
+
+
+
+## Response
+
+- The data team performed a preliminary investigation of the claims classification dataset with the aim of learning important               relationships between variables.
+
+- Given the ask for a classification of user claims, the data team looked at the counts of claims and opinions in order to understand the   count of each type of video content.
+
+
+## Impact
+
+**"The impact of this preliminary analysis will be evident in the next steps. In order to understand the impact of user videos, the data team identified two important variables to consider. The variables  video_duration (in seconds) and video_view_count are both important factors to consider for future prediction models."**
+
+
+## Issue/ Problem
+
+
+**"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. To begin, the data team needs to organize the raw dataset and prepare it for future exploratory data analysis."**
+
+
+
 ## Step by Step Process
 
 
@@ -155,67 +218,6 @@ Note that for claim videos, banned authors have slightly higher likes/view and s
 - Engagement level is strongly correlated with claim status. This should be a focus of further inquiry.
 
 - Videos with banned authors have significantly higher engagement than videos with active authors. Videos with authors under review fall    between these two categories in terms of engagement levels.
-
-
-
-## UNDERSTANDING THE DATA
-
-After reviewing the provided dataset, the variable  claim_status seemed particularly useful, given the client’s proposed project. The following screenshots show important points of analysis required to understand the claim_status variable.
-
-<img width="474" height="146" alt="image" src="https://github.com/user-attachments/assets/4244291f-19d1-4c66-ac07-1c96e3166dee" />
-
-Note: The counts of each claim status are quite balanced. There are 9,608 claims and 9,476 opinions.
-
-## ENGAGEMENT TRENDS
-
-**"The data team considered viewer engagement with each video in the claim and opinion categories. In order to understand viewer engagement, the data team considered the view count. The mean and median view count show the impact of each category of video; specifically, the mean and median view counts for both categories show the association between content (claim or opinion) and the video views."**
-
-Claims:
-Mean view count claims: 501029.4527477102
-Median view count claims: 501555.0
-
-Opinions:
-Mean view count opinions: 4956.43224989447
-Median view count opinions: 4953.0
-
-
-## Storytelling, Findings and Presentation
-
-[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20Data%20Understanding%20Findings.pptx)
-
-
-![Tiktok Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/Tiktok%20Data%20Understanding%20Presentation.png)
-
-
-## Insights
-
-**1. There is a near equal balance of opinions versus claims. With this understanding, we can proceed with our future analysis knowing that there is a fairly balanced amount of claims and opinions for the videos included within this dataset.**
-
-**2. With the key variables identified and the initial investigation of the claims classification dataset, the process of exploratory data analysis can begin.**
-
-Pie chart visualizes the comparison of the count of claims and opinions
-
-
-<img width="282" height="371" alt="image" src="https://github.com/user-attachments/assets/93761976-9308-4110-8777-0ae71c66b298" />
-
-
-
-## Response
-
-- The data team performed a preliminary investigation of the claims classification dataset with the aim of learning important               relationships between variables.
-
-- Given the ask for a classification of user claims, the data team looked at the counts of claims and opinions in order to understand the   count of each type of video content.
-
-
-## Impact
-
-**"The impact of this preliminary analysis will be evident in the next steps. In order to understand the impact of user videos, the data team identified two important variables to consider. The variables  video_duration (in seconds) and video_view_count are both important factors to consider for future prediction models."**
-
-
-## Issue/ Problem
-
-
-**"The TikTok data team seeks to develop a machine learning model to assist in the classification of claims for user submissions. To begin, the data team needs to organize the raw dataset and prepare it for future exploratory data analysis."**
 
 
 
