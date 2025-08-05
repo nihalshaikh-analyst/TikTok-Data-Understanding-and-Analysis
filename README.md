@@ -72,6 +72,9 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 - TikTok's data team needs to problem-solve and communicate findings. Good luck on tasks!
 
 
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/TikTok-Data-Understsnding-EDA-Statistical-Regression-ML-Models/blob/main/Tiktok%20data%20understanding.ipynb)
 
 
 ## UNDERSTANDING THE DATA
