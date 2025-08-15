@@ -54,7 +54,6 @@ This project uses a dataset called tiktok_dataset.csv. It contains synthetic dat
 
 
 - The second approach was a two-sample hypothesis test. Aligned with preliminary findings from the mean values, this statistical analysis shows that any observed difference in the sample data is due to an actual difference in the corresponding population means.
-<img width="3163" height="270" alt="image" src="https://github.com/user-attachments/assets/f3293cd4-4b73-4c0d-a92d-b9c60520510c" />
 
 
 [Presentations](https://github.com/nihalshaikh-analyst/TikTok-Data-Understsnding-EDA-Statistical-Regression-ML-Models/blob/main/Statistics%20of%20TikTok%20Findings.pptx)
@@ -101,7 +100,7 @@ Use descriptive statistics to conduct Exploratory Data Analysis (EDA).
 
 - Inspect the first five rows of the dataframe.
 
--  3. Hypothesis testing¶
+-  3. Hypothesis testing
  
 - Null hypothesis: There is no difference in number of views between TikTok videos posted by verified accounts and TikTok videos posted by unverified accounts (any observed difference in the sample data is due to chance or sampling variability).
 
