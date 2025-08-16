@@ -57,6 +57,10 @@ TikTok’s data team is working on the claims classification project.
 
 **A key component of this project’s exploratory data analysis involves visualizing the data. As illustrated in the following histograms, it is clear that the vast majority of videos are grouped at the bottom of the range of values for three variables that showcase TikTok users (video viewers’) engagement with the videos included in this dataset.**
 
+
+[Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understsnding-EDA-Statistical-Regression-ML-Models/blob/main/TikTok%20EDA%20Findings.pptx)
+
+
 ![TikTok EDA Presentation](https://github.com/nihalshaikh-analyst/TikTok-Data-Understanding-and-Analysis/blob/main/TikTok%20EDA%20Presentation.png)
 
 
